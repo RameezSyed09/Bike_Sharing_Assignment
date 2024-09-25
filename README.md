@@ -170,4 +170,6 @@ Give credit here.
 ## Contact
 Created by Syed Rameez - feel free to contact me at rameez135@gmail.com
 
+Git Link : https://github.com/RameezSyed09/Bike_Sharing_Assignment
+
 Developed as part of the Linear Regression Module required for Post Graduate Diploma in Machine Learning and AI - IIIT, Bangalore by Upgrad.
